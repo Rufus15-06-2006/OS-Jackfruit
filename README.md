@@ -4,8 +4,8 @@
 
 | Name | SRN |
 |------|-----|
-| Prithvish Adhikari | PES1UG24AM206 |
-| Rahul Prasanna | PES1UG24AM217 |
+| Raghav G U | PES1UG24AM215 |
+| Rufus Thomas | PES1UG24AM232 |
 
 ---
 
